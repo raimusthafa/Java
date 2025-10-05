@@ -5,7 +5,7 @@ public class nilai_huruf {
         Scanner input = new Scanner(System.in);
 
         System.out.println("=== Program Konversi Nilai Huruf ===");
-        System.out.print("Masukkan nilai huruf (A–E): ");
+        System.out.print("Masukkan nilai huruf (A sampai E): ");
         String nilai = input.nextLine();
 
         String keterangan;
