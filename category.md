@@ -3,6 +3,7 @@
 This document provides a categorized list of all Java files in the project, organized by their primary functionality. Each file is listed with its purpose and recommended category folder.
 
 ## 1. Arithmetic Operations (`arithmetic/`)
+- `aritmatika.java` - Basic arithmetic operations
 - `penjumlahan.java` - Basic addition operations
 - `sisakue.java` - Calculates remainder when dividing cakes among family members
 - Files in this category focus on basic mathematical calculations
@@ -32,6 +33,7 @@ This document provides a categorized list of all Java files in the project, orga
 - `KalkulatorSwitch.java` - Calculator using switch for operations
 - `LampuLaluLintas.java` - Traffic light simulation using switch
 - `nilai_huruf.java` - Converts numeric grades to letters using switch
+- `jumlah_hari_bulan.java` - Determines number of days in a month using switch-case
 - Files in this category primarily use switch-case statements
 
 ## 5. Geometry Calculations (`geometry/`)
@@ -48,6 +50,10 @@ This document provides a categorized list of all Java files in the project, orga
 - `LatCod1_Raihan.java` - Learning exercise example
 - `biodata.java` - Personal information input/output
 - Files in this category are basic examples or exercises
+
+## 8. String Manipulation (`strings/`)
+- `balikkata.java` - Reverses input string/word
+- Files in this category focus on string operations
 
 ## Moving Instructions
 1. Create the above folders in your Java project root
