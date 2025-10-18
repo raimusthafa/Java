@@ -14,19 +14,19 @@ public class LampuLaluLintas {
 
             switch (warna) {
                 case "merah":
-                    System.out.println("🚫 Berhenti! Jangan lanjut.");
+                    System.out.println("Berhenti! Jangan lanjut.");
                     valid = true;
                     break;
                 case "kuning":
-                    System.out.println("⚠️ Bersiap-siap, perhatikan sekitar.");
+                    System.out.println("Bersiap-siap, perhatikan sekitar.");
                     valid = true;
                     break;
                 case "hijau":
-                    System.out.println("✅ Jalan! Tetap waspada.");
+                    System.out.println("Jalan! Tetap waspada.");
                     valid = true;
                     break;
                 default:
-                    System.out.println("❌ Warna tidak dikenali. Coba lagi.");
+                    System.out.println("Warna tidak dikenali. Coba lagi.");
                     break;
             }
         }
@@ -34,3 +34,8 @@ public class LampuLaluLintas {
         input.close();
     }
 }
+
+
+
+
+
