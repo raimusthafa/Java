@@ -57,6 +57,9 @@ This document provides a categorized list of all Java files in the project, orga
 
 ## 9. Tugas Pendahuluan (`tp/`)
 
+## 10. New Folder (`new/`)
+- New files havent category yet
+
 ## Moving Instructions
 1. Create the above folders in your Java project root
 2. Move each file to its designated category folder
