@@ -57,7 +57,10 @@ This document provides a categorized list of all Java files in the project, orga
 
 ## 9. Tugas Pendahuluan (`tp/`)
 
-## 10. New Folder (`new/`)
+## 10. While Do (`while/`)
+- Learn how while do works
+
+## 11. New Folder (`new/`)
 - New files havent category yet
 
 ## Moving Instructions
